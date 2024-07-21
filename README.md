@@ -1,4 +1,4 @@
-# Q2_2024_Public
+# Q3_Q4_2024_Public
 
 Some own projects and practical exercises 
 of my degree in Computer Engineering 
